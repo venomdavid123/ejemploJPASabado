@@ -1,0 +1,2 @@
+# ejemploJPASabado
+proyecto basico
